@@ -27,6 +27,7 @@ print(array3d[1, 0, 0])
 print(array3d[0, 1, 0])
 print(array3d[0, 0, 1])
 print(array3d[1, 1, 2])
+print(array3d[1, 1, 0])
 print()
 
 '''
